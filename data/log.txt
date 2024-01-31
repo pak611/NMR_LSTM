@@ -1,0 +1,65 @@
+09:23:47,258 root INFO Opening MestreNova
+09:23:49,776 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:25:31,234 root WARNING Smiles: C(=C\c1ccc(C)cc1)n1nnc2cnccc21, index: 0 timed out reopening MestreNova and skipping.
+09:25:31,234 root INFO Killing MestreNova
+09:27:06,217 root INFO Opening MestreNova
+09:27:08,722 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:27:30,58 root WARNING Smiles: C(=C\c1ccc(C)cc1)n1nnc2cnccc21, index: 0 timed out reopening MestreNova and skipping.
+09:27:30,58 root INFO Killing MestreNova
+09:30:50,698 root INFO Opening MestreNova
+09:30:53,206 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:31:14,596 root WARNING Smiles: C(=C\c1ccc(C)cc1)n1nnc2cnccc21, index: 0 timed out reopening MestreNova and skipping.
+09:31:14,596 root INFO Killing MestreNova
+09:31:14,637 root INFO Opening MestreNova
+09:31:17,141 root INFO Running: index 1 smiles C(C#N)=C/c1ccc(-c2cc(Cl)ccc2Cl)o1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_1.csv
+09:31:38,539 root WARNING Smiles: C(C#N)=C/c1ccc(-c2cc(Cl)ccc2Cl)o1, index: 1 timed out reopening MestreNova and skipping.
+09:31:38,539 root INFO Killing MestreNova
+09:31:38,572 root INFO Opening MestreNova
+09:31:41,76 root INFO Running: index 2 smiles Nc1cccc2ncccc12 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_2.csv
+09:32:02,460 root WARNING Smiles: Nc1cccc2ncccc12, index: 2 timed out reopening MestreNova and skipping.
+09:32:02,460 root INFO Killing MestreNova
+09:32:02,493 root INFO Opening MestreNova
+09:32:04,998 root INFO Running: index 3 smiles C(=)c1ccccc1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_3.csv
+09:32:26,385 root WARNING Smiles: C(=)c1ccccc1, index: 3 timed out reopening MestreNova and skipping.
+09:32:26,385 root INFO Killing MestreNova
+09:32:26,417 root INFO Opening MestreNova
+09:32:28,922 root INFO Running: index 4 smiles Nc1ccc(-c2ncc(-c3ccc(Oc4ccccc4)cc3)c3c(N)n[nH]c23)cc1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_4.csv
+09:32:50,315 root WARNING Smiles: Nc1ccc(-c2ncc(-c3ccc(Oc4ccccc4)cc3)c3c(N)n[nH]c23)cc1, index: 4 timed out reopening MestreNova and skipping.
+09:32:50,315 root INFO Killing MestreNova
+09:32:50,347 root INFO Opening MestreNova
+09:32:52,852 root INFO Running: index 5 smiles C(=N\NC1=C(C(=O)OCC)C(c2ccc()cc2)c2c(C)n[nH]c2N1)C(=O)c1ccccc1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_5.csv
+09:33:14,267 root WARNING Smiles: C(=N\NC1=C(C(=O)OCC)C(c2ccc()cc2)c2c(C)n[nH]c2N1)C(=O)c1ccccc1, index: 5 timed out reopening MestreNova and skipping.
+09:33:14,267 root INFO Killing MestreNova
+09:33:14,295 root INFO Opening MestreNova
+09:33:16,799 root INFO Running: index 6 smiles C(C)=O output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_6.csv
+09:33:38,221 root WARNING Smiles: C(C)=O, index: 6 timed out reopening MestreNova and skipping.
+09:33:38,221 root INFO Killing MestreNova
+09:33:38,254 root INFO Opening MestreNova
+09:33:40,758 root INFO Running: index 7 smiles C=S1(=O)CCN(C(=O)NCC)CC1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_7.csv
+09:34:02,148 root WARNING Smiles: C=S1(=O)CCN(C(=O)NCC)CC1, index: 7 timed out reopening MestreNova and skipping.
+09:34:02,148 root INFO Killing MestreNova
+09:34:02,181 root INFO Opening MestreNova
+09:34:04,685 root INFO Running: index 8 smiles O[C@H]()c1cc(C)no1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_8.csv
+09:34:26,55 root WARNING Smiles: O[C@H]()c1cc(C)no1, index: 8 timed out reopening MestreNova and skipping.
+09:34:26,55 root INFO Killing MestreNova
+09:34:26,88 root INFO Opening MestreNova
+09:34:28,592 root INFO Running: index 9 smiles C=Nc1cc(C)c2c(Nc3ccc(F)cc3)ncnc2c1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_9.csv
+09:39:57,418 root INFO Opening MestreNova
+09:39:59,924 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:40:21,316 root WARNING Smiles: C(=C\c1ccc(C)cc1)n1nnc2cnccc21, index: 0 timed out reopening MestreNova and skipping.
+09:40:21,317 root INFO Killing MestreNova
+09:40:21,358 root INFO Opening MestreNova
+09:43:05,318 root INFO Opening MestreNova
+09:43:07,825 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:46:21,44 root INFO Opening MestreNova
+09:46:23,551 root INFO Running: index 0 smiles C(=C\c1ccc(C)cc1)n1nnc2cnccc21 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_0.csv
+09:46:44,926 root WARNING Smiles: C(=C\c1ccc(C)cc1)n1nnc2cnccc21, index: 0 timed out reopening MestreNova and skipping.
+09:46:44,927 root INFO Killing MestreNova
+09:46:44,964 root INFO Opening MestreNova
+09:46:49,969 root INFO Killing MestreNova
+09:46:52,502 root INFO Set: 0 with batch_size 1 took: 0:00:31.457410
+09:46:52,502 root INFO Opening MestreNova
+09:46:55,6 root INFO Running: index 1 smiles C(C#N)=C/c1ccc(-c2cc(Cl)ccc2Cl)o1 output_path C:\Users\patri\OneDrive\Desktop\NMR_GAN\data\1H_1.csv
+09:47:16,359 root WARNING Smiles: C(C#N)=C/c1ccc(-c2cc(Cl)ccc2Cl)o1, index: 1 timed out reopening MestreNova and skipping.
+09:47:16,359 root INFO Killing MestreNova
+09:47:16,392 root INFO Opening MestreNova
